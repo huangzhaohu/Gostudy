@@ -1,0 +1,26 @@
+<games>
+    <game>
+        <name>王者荣耀</name>
+        <type>Moba</type>
+        <heros>
+            <hero>
+                <name>亚瑟</name>
+                <skills>
+                    <passive>圣光守护</passive>
+                    <one>誓约之盾</one>
+                    <two>回旋打击</two>
+                    <three>圣剑裁决</three>
+                </skills>
+            </hero>
+            <hero>
+                <name>李白</name>
+                <skills>
+                    <passive>青莲剑歌</passive>
+                    <one>飞流直下</one>
+                    <two>将进酒</two>
+                    <three>神来之笔</three>
+                </skills>
+            </hero>
+        </heros>
+    </game>
+</games>
